@@ -1,1 +1,9 @@
-How to use
+How to use:
+
+FOR WINDOWS: Download the windows .ZIP release, uncompress and run lease.exe or unlease.exe
+
+FOR MAC: We will soon have a Mac App release. In the meantime follow the Linux instructions
+
+FOR LINUX: Download the python (.py) files and run by typing 'python lease.py' or 'python unlease.py'.
+Note that you need to install the pywaves and base58 libraries for this to work. To install them type 'pip pywaves' and 'pip base58'
+
